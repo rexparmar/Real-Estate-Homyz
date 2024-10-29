@@ -6,6 +6,7 @@ import Value from './components/value/Value';
 import Contact from './components/contact/Contact';
 import GetStarted from './components/getstarted/GetStarted';
 import Footer from './components/footer/Footer';
+import './App.css'
 function App() {
   return (
     <div className="App">
